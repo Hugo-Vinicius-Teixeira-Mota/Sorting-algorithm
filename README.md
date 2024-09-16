@@ -1,2 +1,2 @@
-# Sorting-algorithm
- Algorithm that orders numbers
+# Sorting Algorithm
+ Algorithm that orders numbers 🔢
